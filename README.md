@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @veronicangelin
-- 👀 I’m interested in effective data visualisation
+- 👀 I’m interested in data visualisation
 - 🌱 I’m currently studying data science and analytics
 - 📫 How to reach me : setiyo.veronica@u.nus.edu
 
